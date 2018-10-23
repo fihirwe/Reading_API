@@ -17,15 +17,14 @@ For easy installation of libralies you need to install pip forllow instatruction
 # Required liblaries installation
 
 For you to use this API there are some important libralies you need to install so you can be able to run this API.
-* Install numpy:
+Install numpy:
+* $ pip install numpy
 
-$ pip install numpy
-* Install pandas:
+Install pandas:
+* $ pip install pandas
 
-$ pip install pandas
-* Install geopy " a geo-loacator API:
-
-$ pip install geopy
+Install geopy " a geo-loacator API:
+* $ pip install geopy
 
 # Deployment
 To access or use this API can be done in two way
