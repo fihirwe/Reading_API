@@ -17,6 +17,7 @@ For easy installation of libralies you need to install pip forllow instatruction
 # Required liblaries installation
 
 For you to use this API there are some important libralies you need to install so you can be able to run this API.
+
 Install numpy:
 * $ pip install numpy
 
