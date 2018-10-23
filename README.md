@@ -29,17 +29,20 @@ Install geopy " a geo-loacator API:
 
 # Deployment
 To access or use this API can be done in two way
-#1. downloading the repository 
 
+#1. downloading the repository 
 - Click on a green top right corner " Clone or Download " button to choose download_Zip option 
 - In the downloading directory use the following command to unzipp: 
 
 $ unzip Reading_API-master.zip 
+
 To access the files 
 - $ cd Reading_API-master
 
 #2 Clone the project
+
 Here you only need to run the following command. It will clone the repository to your current directory.
+
 $ git clone https://github.com/feliIhirwe/Reading_API.git
 
 Once finished use:.
