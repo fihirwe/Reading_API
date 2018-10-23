@@ -15,7 +15,10 @@ $ cd Reading_API-master
 Here you only need to run the following command. It will clone the repository to your current directory.
 $ git clone https://github.com/feliIhirwe/Reading_API.git
 
-Once finished use:
+Once finished use:.
+
 $ cd Reading_API/
+
 Runing the API you need to just run the following command
+
 $ ./process_data.py
