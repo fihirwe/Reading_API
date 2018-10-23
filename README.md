@@ -18,19 +18,23 @@ For easy installation of libralies you need to install pip forllow instatruction
 
 For you to use this API there are some important libralies you need to install so you can be able to run this API.
 * Install numpy:
-- $ pip install numpy
+
+$ pip install numpy
 * Install pandas:
-- $ pip install pandas
+
+$ pip install pandas
 * Install geopy " a geo-loacator API:
-- $ pip install geopy
+
+$ pip install geopy
 
 # Deployment
 To access or use this API can be done in two way
 #1. downloading the repository 
+
 - Click on a green top right corner " Clone or Download " button to choose download_Zip option 
 - In the downloading directory use the following command to unzipp: 
 
-- $ unzip Reading_API-master.zip 
+$ unzip Reading_API-master.zip 
 To access the files 
 - $ cd Reading_API-master
 
@@ -52,4 +56,4 @@ You need to wait for 10 to 15 seconds and checkout your files as Transaction.csv
 - Ihirwe Jean Felicien
 
 # Feedback:
-For any feed back send me and email at ifelicie@andrew.cmu.edu
+For any feed back shoot me and email at ifelicie@andrew.cmu.edu
