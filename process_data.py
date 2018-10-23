@@ -56,7 +56,6 @@ def processData():
     #converting the timestamps and formatting
     merged_cust_trans.DateTime=pd.to_datetime(merged_cust_trans.DateTime,unit='ms')
     merged_cust_trans.DateTime=[date1.strftime('%Y-%m-%d %H:%M:%S ') for date1 in merged_cust_trans.DateTime]
-    print(merged_cust_trans.DateTime)
     #getting the addresses information in the table
     print("Retreiving the location information.... IF IT FAILS RESTART AGAIN ")
 
