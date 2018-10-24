@@ -1,5 +1,5 @@
 # Reading_API
-This repo is containg python api which reads data from json and xml files and output a csv file.
+This repo contains python-based API which reads data from json and xml link and output a csv file.
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
