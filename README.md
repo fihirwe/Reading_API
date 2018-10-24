@@ -11,7 +11,7 @@ If you are using window you can use this link:
 If you are on ubuntu you can use:
 - https://linoxide.com/linux-how-to/install-python-ubuntu/
 
-For easy installation of libralies you need to install pip forllow instatruction here
+For easy installation of libralies you need to install pip follow instructions here
 - https://www.makeuseof.com/tag/install-pip-for-python/
 
 # Required liblaries installation
